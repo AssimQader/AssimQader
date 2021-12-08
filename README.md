@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Asim Qader
+- 👋 Hi, I’m @Assim Qader
 - 👀 I’m interested in ETH
 - 🌱 I’m currently learning C++ Basics
 - 💞️ I’m looking to collaborate on Goolge Company
