@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Assim Qader
-- 👀 I’m interested in ETH
-- 🌱 I’m currently learning C++ Basics
+- 👀 I’m a software engineer, interested in ETH
+- 🌱 I’m currently learning web backend development
 - 💞️ I’m looking to collaborate on Goolge Company
 - 📫 How to reach me asem.adel00@gmail.com
 
