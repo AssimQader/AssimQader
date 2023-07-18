@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Assim Qader
-- 👀 I’m a software engineer, interested in ETH
-- 🌱 I’m currently learning web backend development
-- 💞️ I’m looking to collaborate on Goolge Company
+- 👀 I’m a software engineer, interested in Microsoft Technologies
+- 🌱 I’m currently learning .NET backend development
+- 💞️ I’m looking to collaborate on Microsoft Company
 - 📫 How to reach me asem.adel00@gmail.com
 
 <!---
